@@ -1,4 +1,4 @@
-# NLP for Amazon Rviews sentiment:
+# NLP for Amazon Reviews sentiment:
 ___
 > - In this project our task was to get a dataset to build an NLP model on.
 We chose to analyze a dataset obtained from a website that collects amazon customers reviews of different products they bought. We chose the Luxury Beauty products dataset for this project.
