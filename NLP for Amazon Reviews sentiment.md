@@ -8,7 +8,7 @@ ___
 > - analyzing the dataset using EDA techniques.
 > - Building an NLP model that predict the sentiment of the customers reviews if they are positive or negative.
 > # Data description:
-___> - reviewerID - ID of the reviewer.
+> - reviewerID - ID of the reviewer.
 > - asin - ID of the product.
 > - reviewerName - name of the reviewer
 > - vote - helpful votes of the review
